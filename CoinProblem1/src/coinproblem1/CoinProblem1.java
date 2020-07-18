@@ -45,6 +45,7 @@ public class CoinProblem1 {
 
     }
 
+    
     // User define function  which is return winner player
     static int FindWinnerPlayer(int ArrCoinValue[], int NumberOfPlayer) {
         int NoOfPlayerCount = 0, tempValueOfArrCoinValue = ArrCoinValue.length - 1;
